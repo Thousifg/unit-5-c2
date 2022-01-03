@@ -1,0 +1,31 @@
+.form{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.postDiv{
+    width:50%;
+    margin-top: 20px;
+    border: 1px solid red;
+}
+.sendDiv{
+    width:50%;
+    border: 1px solid black;
+}
+.listData{
+    display: flex;
+    flex-direction: column;
+}
+.listData img{
+    width: 100px;
+    height: 100px;
+}
+.carddd{
+    position: absolute;
+    width: 50%;
+    margin-left: 800px;
+    margin-top: -800px;
+}
+.carddivv h3{
+    color: red;
+}
